@@ -1,0 +1,26 @@
+{
+  "title": "Systems Performance, 2nd Edition",
+  "full_text_status": "未找到作者或出版社授权免费全文",
+  "resources": [
+    {
+      "title": "Systems Performance, 2nd Edition",
+      "source": "https://www.brendangregg.com/systems-performance-2nd-edition-book.html",
+      "url": "https://www.informit.com/content/images/9780136820154/samplepages/9780136820154_Sample.pdf",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\07_Systems_Performance_2e\\Systems_Performance_2e_sample.pdf",
+      "type": "官方样章（第3章及前置内容）",
+      "status": "downloaded",
+      "bytes": 2600612,
+      "sha256": "28259f0a6869f3b3d44eb11b36d882de1bb59c0e57c749eb5122d27c86667e03"
+    },
+    {
+      "title": "Systems Performance, 2nd Edition",
+      "source": "https://www.brendangregg.com/systems-performance-2nd-edition-book.html",
+      "url": "https://www.brendangregg.com/Slides/TheNewSystemsPerformance.pdf",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\07_Systems_Performance_2e\\Systems_Performance_author_slides.pdf",
+      "type": "作者相关演讲幻灯片，非原书",
+      "status": "downloaded",
+      "bytes": 781927,
+      "sha256": "34070145369617b38b8d16260673e2f0ec6322b0a1c7fab2f24ace6e1ed81e45"
+    }
+  ]
+}

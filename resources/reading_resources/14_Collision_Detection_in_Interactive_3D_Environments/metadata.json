@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Collision Detection in Interactive 3D Environments",
+    "source": "https://github.com/dtecta/solid3",
+    "url": "https://codeload.github.com/dtecta/solid3/zip/refs/heads/master",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\14_Collision_Detection_in_Interactive_3D_Environments\\solid3-master.zip",
+    "type": "companion_source",
+    "status": "downloaded",
+    "bytes": 732679,
+    "sha256": "618eef6a15696d3df3d1b17c8c7e65bfb6d316be68d15870f27ddf114f5377f1"
+  },
+  {
+    "title": "Collision Detection in Interactive 3D Environments",
+    "source": "https://github.com/dtecta/solid3",
+    "url": "https://github.com/dtecta/solid3",
+    "path": null,
+    "type": "full_book",
+    "status": "not_found_authorized_free_full_text"
+  }
+]

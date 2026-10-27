@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Computational Geometry: Algorithms and Applications, 3rd edition",
+    "source": "https://ics-websites.science.uu.nl/geobook/",
+    "url": "https://ics-websites.science.uu.nl/geobook/introduction.pdf",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\13_Computational_Geometry\\introduction.pdf",
+    "type": "sample_chapter",
+    "status": "downloaded",
+    "bytes": 265308,
+    "sha256": "a3bc137c59dfbe357f51df47e01a52c7d844c9b799b6332ee6a5e6fcb9976464"
+  },
+  {
+    "title": "Computational Geometry: Algorithms and Applications, 3rd edition",
+    "source": "https://ics-websites.science.uu.nl/geobook/",
+    "url": "https://ics-websites.science.uu.nl/geobook/interpolation.pdf",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\13_Computational_Geometry\\interpolation.pdf",
+    "type": "sample_chapter",
+    "status": "downloaded",
+    "bytes": 352618,
+    "sha256": "82d465c4aa69843620bec121797cdbfee23ae192fb87ea066cba5648e12a8c2d"
+  },
+  {
+    "title": "Computational Geometry: Algorithms and Applications, 3rd edition",
+    "source": "https://ics-websites.science.uu.nl/geobook/",
+    "url": "https://ics-websites.science.uu.nl/geobook/pseudo.pdf",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\13_Computational_Geometry\\pseudo.pdf",
+    "type": "pseudocode",
+    "status": "downloaded",
+    "bytes": 183566,
+    "sha256": "8014f8a39620471bb046e6b571868b23aa90d9a8397864f5ce65ee7d4fa99b04"
+  },
+  {
+    "title": "Computational Geometry: Algorithms and Applications, 3rd edition",
+    "source": "https://ics-websites.science.uu.nl/geobook/",
+    "url": "https://ics-websites.science.uu.nl/geobook/figures.zip",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\13_Computational_Geometry\\figures.zip",
+    "type": "figures",
+    "status": "downloaded",
+    "bytes": 1645510,
+    "sha256": "e3d75aee6dd98d4007ae73590659fd925cee6f1cd31d2420ee9cc78a477e2e71"
+  },
+  {
+    "title": "Computational Geometry: Algorithms and Applications, 3rd edition",
+    "source": "https://ics-websites.science.uu.nl/geobook/",
+    "url": "https://ics-websites.science.uu.nl/geobook/",
+    "path": null,
+    "type": "full_book",
+    "status": "not_found_authorized_free_full_text"
+  }
+]

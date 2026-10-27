@@ -1,0 +1,40 @@
+[
+  {
+    "title": "Rigid Body Dynamics Algorithms",
+    "source": "https://royfeatherstone.org/",
+    "url": "https://royfeatherstone.org/spatial/v2/spatial_v2.zip",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\15_Rigid_Body_Dynamics_Algorithms\\spatial_v2.zip",
+    "type": "companion_source",
+    "status": "downloaded",
+    "bytes": 298299,
+    "sha256": "918b52ca515dc2815637df0968af302454ce2635a3d52b310d88448431837cd6"
+  },
+  {
+    "title": "Rigid Body Dynamics Algorithms",
+    "source": "https://royfeatherstone.org/",
+    "url": "https://royfeatherstone.org/teaching/IntroSpVec2022.zip",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\15_Rigid_Body_Dynamics_Algorithms\\IntroSpVec2022.zip",
+    "type": "author_course",
+    "status": "downloaded",
+    "bytes": 7590460,
+    "sha256": "88833c3499deae66f7d9ef7bd9dc94a9511b9674f06dfb51e039eb1e33632a77"
+  },
+  {
+    "title": "Rigid Body Dynamics Algorithms",
+    "source": "https://royfeatherstone.org/",
+    "url": "https://royfeatherstone.org/teaching/CompuRobDyn2022.zip",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\15_Rigid_Body_Dynamics_Algorithms\\CompuRobDyn2022.zip",
+    "type": "author_course",
+    "status": "downloaded",
+    "bytes": 8579762,
+    "sha256": "2b8383efffeebb4b02453cff1237ca402f2700f1649c0ada42335fe813451970"
+  },
+  {
+    "title": "Rigid Body Dynamics Algorithms",
+    "source": "https://royfeatherstone.org/",
+    "url": "https://royfeatherstone.org/",
+    "path": null,
+    "type": "full_book",
+    "status": "not_found_authorized_free_full_text"
+  }
+]

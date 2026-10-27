@@ -1,0 +1,39 @@
+[
+  {
+    "title": "Programming Massively Parallel Processors, 5th Edition",
+    "source": "https://shop.elsevier.com/books/book-companion/9780323912310",
+    "url": "https://shop.elsevier.com/books/book-companion/9780323912310",
+    "path": null,
+    "type": "full_book",
+    "status": "not_found_authorized_free_full_text"
+  },
+  {
+    "title": "Programming Massively Parallel Processors, 5th Edition",
+    "source": "https://shop.elsevier.com/books/book-companion/9780323912310",
+    "url": "https://shop.elsevier.com/books/book-companion/9780323912310",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\01_Programming_Massively_Parallel_Processors\\official_companion.html",
+    "type": "official_resource_page",
+    "status": "downloaded",
+    "bytes": 167983
+  },
+  {
+    "title": "Programming Massively Parallel Processors, 5th Edition",
+    "source": "https://shop.elsevier.com/books/book-companion/9780323912310",
+    "url": "https://brand.elsevier.com/api/asset/eyJjbGllbnRJZCI6bnVsbCwiaWQiOjQxMjEsInRpbWVzdGFtcCI6MTczMjAxMzY1MSwidmVyc2lvbiI6MTcyOTU5NjkyMH0:elsevier:34blhqhtt1f3JfTmONMLDWWidF2HbYtKtuslpMS8wl8/download",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\01_Programming_Massively_Parallel_Processors\\lecture_slides_4E.zip",
+    "type": "official_supplement_previous_edition",
+    "status": "downloaded",
+    "bytes": 17597713,
+    "sha256": "54705edab82e6835e5f2478247e2795ab748e2f5e256dd6ea77db852619c04b8"
+  },
+  {
+    "title": "Programming Massively Parallel Processors, 5th Edition",
+    "source": "https://shop.elsevier.com/books/book-companion/9780323912310",
+    "url": "https://brand.elsevier.com/api/asset/eyJjbGllbnRJZCI6bnVsbCwiaWQiOjQxMjAsInRpbWVzdGFtcCI6MTczMjAxMzY0OSwidmVyc2lvbiI6MTcyOTU5NjkxOX0:elsevier:jmDqfL31yK5SSIKsTPXFOW-zveqsR3HKOgkPAJWGDRo/download",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\01_Programming_Massively_Parallel_Processors\\lab_materials_4E.zip",
+    "type": "official_supplement_previous_edition",
+    "status": "downloaded",
+    "bytes": 456089,
+    "sha256": "d43efe95fa95dbe8645770b3c0902f69c76b6f3729388ba766ae40f38a0fda0a"
+  }
+]

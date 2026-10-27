@@ -1,0 +1,305 @@
+[
+  {
+    "file": "01_Programming_Massively_Parallel_Processors/lab_materials_4E.zip",
+    "bytes": 456089,
+    "sha256": "d43efe95fa95dbe8645770b3c0902f69c76b6f3729388ba766ae40f38a0fda0a",
+    "entries": 14,
+    "validation": "ok"
+  },
+  {
+    "file": "01_Programming_Massively_Parallel_Processors/lecture_slides_4E.zip",
+    "bytes": 17597713,
+    "sha256": "54705edab82e6835e5f2478247e2795ab748e2f5e256dd6ea77db852619c04b8",
+    "entries": 23,
+    "validation": "ok"
+  },
+  {
+    "file": "02_The_Art_of_Writing_Efficient_Programs/official_code_2E.zip",
+    "bytes": 344485,
+    "sha256": "a869a32a938305eb94f093c036dd176e293fd1b46fce9f3d502d6abf07713a21",
+    "entries": 243,
+    "validation": "ok"
+  },
+  {
+    "file": "04_Real_Time_Collision_Detection/SIGGRAPH04_GJK_notes.pdf",
+    "bytes": 2926614,
+    "sha256": "82f03b84a1f2a7788797e5cc6e0d1b4bf31bb5eba496517083f08755aa7708da",
+    "pages": 12,
+    "first_page_text": "",
+    "validation": "ok"
+  },
+  {
+    "file": "06_Modern_Robotics/Modern_Robotics_preprint_2019.pdf",
+    "bytes": 7322483,
+    "sha256": "47f446567bb4ba500fced69890c4c039f8180c2a3dfd0ffdd679d9ac0a421368",
+    "pages": 644,
+    "first_page_text": "MODERN ROBOTICS\nMECHANICS, PLANNING, AND CONTROL\nKevin M. Lynch and Frank C. Park\nDecember 30, 2019\nThis document is the preprint version of the updated ﬁrst edition of\nModern Robotics: Mechanics, Pla",
+    "validation": "ok"
+  },
+  {
+    "file": "06_Modern_Robotics/ModernRobotics_code.zip",
+    "bytes": 270064,
+    "sha256": "e24f9de7aa275e181e15f93b7dadbc55647bfab2fade707612c4a75102eb1c0b",
+    "entries": 68,
+    "validation": "ok"
+  },
+  {
+    "file": "06_Modern_Robotics/practice_exercises.pdf",
+    "bytes": 2482091,
+    "sha256": "db7ec7df986fd2ba3a0b46da7d651f83ef0bf5805350168209018695f3a815ce",
+    "pages": 108,
+    "first_page_text": "MODERN ROBOTICS\nMECHANICS, PLANNING, AND CONTROL\nPractice Exercises\nContributions from Tito Fernandez, Kevin Lynch, Huan Weng, and Zack\nWoodruﬀ\nDecember 6, 2018\nThis is a supplemental document to\nMode",
+    "validation": "ok"
+  },
+  {
+    "file": "07_Systems_Performance_2e/Systems_Performance_2e_sample.pdf",
+    "bytes": 2600612,
+    "sha256": "28259f0a6869f3b3d44eb11b36d882de1bb59c0e57c749eb5122d27c86667e03",
+    "pages": 141,
+    "first_page_text": "",
+    "validation": "ok"
+  },
+  {
+    "file": "07_Systems_Performance_2e/Systems_Performance_author_slides.pdf",
+    "bytes": 781927,
+    "sha256": "34070145369617b38b8d16260673e2f0ec6322b0a1c7fab2f24ace6e1ed81e45",
+    "pages": 17,
+    "first_page_text": "The\nNew\nBrendan Gregg\n(and many others)\nPrentice Hall, 2013\nA brief talk for: A Midsummer Night’s System, San Francisco, July 2013",
+    "validation": "ok"
+  },
+  {
+    "file": "08_CSAPP_3e/csapp3e-code-all.tar",
+    "bytes": 27852800,
+    "sha256": "1be590472f18d26e8d46929c851807d672508e70ca10701b5a7283b679544288",
+    "validation": "ok"
+  },
+  {
+    "file": "08_CSAPP_3e/csapp3e-introduction-slides.pdf",
+    "bytes": 8031884,
+    "sha256": "91e58de5896b2c7346a98f430962123244722956081a90f5d4d1e4add9fd1c71",
+    "pages": 56,
+    "first_page_text": "Introducing Computer Systems \nfrom a  \nProgrammer’s Perspective\nRandal E. Bryant, David R. O’Hallaron\nComputer Science, Electrical & Computer Engineering\nCarnegie Mellon University",
+    "validation": "ok"
+  },
+  {
+    "file": "08_CSAPP_3e/csapp3e-preface.pdf",
+    "bytes": 417686,
+    "sha256": "c297e8a80090a25005516500434ecaa360e653cfb7b58552f570b699a6845759",
+    "pages": 36,
+    "first_page_text": "Computer Systems\nA Programmer’s Perspective\nBryant & O’Hallaron fourth pages 2015/1/28 12:22 p. i (front) Windfall Sof tware, PCA ZzT EX 16.2",
+    "validation": "ok"
+  },
+  {
+    "file": "09_The_Linux_Programming_Interface/TLPI-00-Preface.pdf",
+    "bytes": 88900,
+    "sha256": "22e0c06ff7139eff29b02f5525b523946c0296d2a7449bcd022f46ad158c5ae8",
+    "pages": 11,
+    "first_page_text": "PREFACE\nSubject\nIn this book, I describe the Linux programming interface—the system calls, library\nfunctions, and other low-level interfaces prov ided by Linux, a free implementation\nof the UNIX opera",
+    "validation": "ok"
+  },
+  {
+    "file": "09_The_Linux_Programming_Interface/TLPI-04-File_IO_The_Universal_IO_Model.pdf",
+    "bytes": 771850,
+    "sha256": "fb3fa7d5496fc823d8a02c299b08766f6852b20df717ec7377cf682186fc22df",
+    "pages": 19,
+    "first_page_text": "FILE I/O: THE UNIVERSAL\nI/O MODEL\nWe now start to look in earnest at the system call API. Files are a good place to\nstart, since they are central to the UNIX philosophy. The focus of this chapter is t",
+    "validation": "ok"
+  },
+  {
+    "file": "09_The_Linux_Programming_Interface/TLPI-24-Process_Creation.pdf",
+    "bytes": 1343193,
+    "sha256": "f7ba166704981783e91e2b29e8939368bb9c725280c45bc08bb53af9905b581a",
+    "pages": 19,
+    "first_page_text": "The Linux \nProgramming \ninTerface\nA Linux and UNIX\n®\n System Programming Handbook\nMichael Kerris K\nKerris K\nThe Linux \nProgramming \ninTerface\nThe Linux Programming Interface is the definitive guide \nt",
+    "validation": "ok"
+  },
+  {
+    "file": "09_The_Linux_Programming_Interface/tlpi-260523-dist.tar.gz",
+    "bytes": 336358,
+    "sha256": "7bb1155f6a90f382e18eaf961133d4f3b0583afd278416fba97406bdb0c606e2",
+    "entries": 604,
+    "validation": "ok"
+  },
+  {
+    "file": "09_The_Linux_Programming_Interface/TLPI-52-POSIX_Message_Queues.pdf",
+    "bytes": 876497,
+    "sha256": "8d014d44d9d9f08365162a630a0e3b900a33a062bfc3454bae257d6ad4a57a25",
+    "pages": 26,
+    "first_page_text": "POSIX MESSAGE QUEUES\nThis chapter describes POSIX message queues, which allow processes to exchange\ndata in the form of messages. POSIX message queues are similar to their System V\ncounterparts, in th",
+    "validation": "ok"
+  },
+  {
+    "file": "09_The_Linux_Programming_Interface/TLPI-Bibliography.pdf",
+    "bytes": 74198,
+    "sha256": "f096da8c436f48436b91582cd3c4e42e79d03e0fc5d97fe3776706753780ff60",
+    "pages": 9,
+    "first_page_text": "BIBLIOGRAPHY\nAho, A.V., Kernighan, B.W., and Weinberger, P. J. 1988. The AWK Programming \nLanguage. Addison-Wesley, Reading, Massachusetts.\nAlbitz, P., and Liu, C. 2006. DNS and BIND (5th edition) . O",
+    "validation": "ok"
+  },
+  {
+    "file": "09_The_Linux_Programming_Interface/TLPI-Index.pdf",
+    "bytes": 805619,
+    "sha256": "d21f9a7eff1f714a3e14c1a634820739de575855ce14ab67a0ae86fc1c2c6e06",
+    "pages": 60,
+    "first_page_text": "INDEX\nThe following conventions are used in the index:\nz Library function and system call prototypes are indexed with a subentry\nlabeled prototype. Normally, you’ll find the ma in discussion of a func",
+    "validation": "ok"
+  },
+  {
+    "file": "09_The_Linux_Programming_Interface/TLPI-TOC-detailed.pdf",
+    "bytes": 310095,
+    "sha256": "4422bbb044af1544312ed965a83c36dcb806ff61caee01e338ba20356a92c28c",
+    "pages": 19,
+    "first_page_text": "CONTENTS IN DETAIL\nPREFACE xxxi\n1 HISTORY AND STANDARDS 1\n1.1 A Brief History of UNIX and C ........................................................................................2\n1.2 A Brief Histor",
+    "validation": "ok"
+  },
+  {
+    "file": "10_Introduction_to_Applied_Linear_Algebra/additional_exercises.pdf",
+    "bytes": 530593,
+    "sha256": "e4009632440facce769aefa3ae20dbde2297fd2d0bdb732c82347c2f460890cf",
+    "pages": 77,
+    "first_page_text": "Additional Exercises for\nIntroduction to Applied Linear Algebra:\nVectors, Matrices, and Least Squares\nStephen Boyd Lieven Vandenberghe\nDecember 14, 2025\nThis is a collection of additional exercises fo",
+    "validation": "ok"
+  },
+  {
+    "file": "10_Introduction_to_Applied_Linear_Algebra/julia_companion.pdf",
+    "bytes": 1290633,
+    "sha256": "d75818e77da074ceda65051db504379732f872de5568e301fc158c4d3feed47a",
+    "pages": 180,
+    "first_page_text": "Introduction to Applied Linear Algebra\nVectors, Matrices, and Least Squares\nJulia Language Companion\nStephen Boyd and Lieven Vandenberghe\nDRAFT September 27, 2025",
+    "validation": "ok"
+  },
+  {
+    "file": "10_Introduction_to_Applied_Linear_Algebra/lecture_slides.pdf",
+    "bytes": 10523809,
+    "sha256": "c616b86d9670369ce946258c7732c2d5324f6e9cd679b2b24da0c155c7319d7a",
+    "pages": 470,
+    "first_page_text": "Lecture slides for\nIntroduction to Applied Linear Algebra:\nVectors, Matrices, and Least Squares\nStephen Boyd Lieven Vandenberghe",
+    "validation": "ok"
+  },
+  {
+    "file": "10_Introduction_to_Applied_Linear_Algebra/VMLS_full_book.pdf",
+    "bytes": 7061628,
+    "sha256": "254738c8763f6c6fc29c0a837884bc58deca7c3e762e5ec79068208ac7214362",
+    "pages": 473,
+    "first_page_text": "Introduction to\nApplied Linear Algebra\nVectors, Matrices, and Least Squares\nStephen Boyd\nDepartment of Electrical Engineering\nStanford University\nLieven Vandenberghe\nDepartment of Electrical and Compu",
+    "validation": "ok"
+  },
+  {
+    "file": "11_Numerical_Linear_Algebra/lafront.ps",
+    "bytes": 330024,
+    "sha256": "b5d9fda99f5f9d40e96b822f366bbf3921c933a643c6ad5b314e1d4c67f211ff",
+    "validation": "ok"
+  },
+  {
+    "file": "11_Numerical_Linear_Algebra/lec1.ps",
+    "bytes": 544622,
+    "sha256": "64a969b2fd74e2399d191261bb1a29f39a595bfc606ca7e7326aff2c23c3d837",
+    "validation": "ok"
+  },
+  {
+    "file": "11_Numerical_Linear_Algebra/lec2.ps",
+    "bytes": 532862,
+    "sha256": "936b9684c08713309cf1b85b217724301fcaa06d24301ddd988914589ea5c3d2",
+    "validation": "ok"
+  },
+  {
+    "file": "11_Numerical_Linear_Algebra/lec3.ps",
+    "bytes": 551358,
+    "sha256": "de37e0173f37af5c1c58aa229caf8a6fc9bc2b9a5be92363c1f94ecc042c9756",
+    "validation": "ok"
+  },
+  {
+    "file": "11_Numerical_Linear_Algebra/lec4.ps",
+    "bytes": 539567,
+    "sha256": "075dc170f793bc68874db6d40ce319937635bc4a54cbb9a29f308471c807bc99",
+    "validation": "ok"
+  },
+  {
+    "file": "11_Numerical_Linear_Algebra/lec5.ps",
+    "bytes": 336622,
+    "sha256": "c1641ccd5aeab84a8d2b9579ed5b35611f3a44cfead08139d8d0d49c2bd84b27",
+    "validation": "ok"
+  },
+  {
+    "file": "12_Planning_Algorithms/Planning_Algorithms_full_book.pdf",
+    "bytes": 13988535,
+    "sha256": "d65cbc06bdb16bb67755e435add3bffa43eee2cee5bc1c3b61ce3028dd9c6349",
+    "pages": 1023,
+    "first_page_text": "i\n",
+    "validation": "ok"
+  },
+  {
+    "file": "13_Computational_Geometry/figures.zip",
+    "bytes": 1645510,
+    "sha256": "e3d75aee6dd98d4007ae73590659fd925cee6f1cd31d2420ee9cc78a477e2e71",
+    "entries": 16,
+    "validation": "ok"
+  },
+  {
+    "file": "13_Computational_Geometry/interpolation.pdf",
+    "bytes": 352618,
+    "sha256": "82d465c4aa69843620bec121797cdbfee23ae192fb87ea066cba5648e12a8c2d",
+    "pages": 28,
+    "first_page_text": "9 Delaunay Triangulations\nHeight Interpolation\nWhen we talked about maps of a piece of the earth’s surface in previous chapters,\nwe implicitly assumed there is no relief. This may be reasonable for a ",
+    "validation": "ok"
+  },
+  {
+    "file": "13_Computational_Geometry/introduction.pdf",
+    "bytes": 265308,
+    "sha256": "a3bc137c59dfbe357f51df47e01a52c7d844c9b799b6332ee6a5e6fcb9976464",
+    "pages": 17,
+    "first_page_text": "1 Computational Geometry\nIntroduction\nImagine you are walking on the campus of a university and suddenly you realize\nyou have to make an urgent phone call. There are many public phones on\ncampus and o",
+    "validation": "ok"
+  },
+  {
+    "file": "13_Computational_Geometry/pseudo.pdf",
+    "bytes": 183566,
+    "sha256": "8014f8a39620471bb046e6b571868b23aa90d9a8397864f5ce65ee7d4fa99b04",
+    "pages": 66,
+    "first_page_text": "Algorithm SLOWCONVEX HULL(P)\nInput. A set P of points in the plane.\nOutput. A list L containing the vertices of CH(P) in clockwise order.\n1. E ← / 0.\n2. for all ordered pairs (p, q) ∈ P × P with p not",
+    "validation": "ok"
+  },
+  {
+    "file": "14_Collision_Detection_in_Interactive_3D_Environments/solid3-master.zip",
+    "bytes": 732679,
+    "sha256": "618eef6a15696d3df3d1b17c8c7e65bfb6d316be68d15870f27ddf114f5377f1",
+    "entries": 189,
+    "validation": "ok"
+  },
+  {
+    "file": "15_Rigid_Body_Dynamics_Algorithms/CompuRobDyn2022.zip",
+    "bytes": 8579762,
+    "sha256": "2b8383efffeebb4b02453cff1237ca402f2700f1649c0ada42335fe813451970",
+    "entries": 12,
+    "validation": "ok"
+  },
+  {
+    "file": "15_Rigid_Body_Dynamics_Algorithms/IntroSpVec2022.zip",
+    "bytes": 7590460,
+    "sha256": "88833c3499deae66f7d9ef7bd9dc94a9511b9674f06dfb51e039eb1e33632a77",
+    "entries": 17,
+    "validation": "ok"
+  },
+  {
+    "file": "15_Rigid_Body_Dynamics_Algorithms/spatial_v2.zip",
+    "bytes": 298299,
+    "sha256": "918b52ca515dc2815637df0968af302454ce2635a3d52b310d88448431837cd6",
+    "entries": 130,
+    "validation": "ok"
+  },
+  {
+    "file": "16_Algorithms_for_Optimization/algforopt_notebooks.zip",
+    "bytes": 114340,
+    "sha256": "df7da5e96e8a05401ab56a0c26a2306ba0df2ee6d67c165a8c56478be4f13895",
+    "entries": 31,
+    "validation": "ok"
+  },
+  {
+    "file": "16_Algorithms_for_Optimization/Algorithms_for_Optimization_1e.pdf",
+    "bytes": 8317804,
+    "sha256": "ee1e67c1792aeb72e37b13fd2b5df6ea028b013a9c57474fc063a3f6438e6ef6",
+    "pages": 520,
+    "first_page_text": "Algorithms for Optimization",
+    "validation": "ok"
+  }
+]

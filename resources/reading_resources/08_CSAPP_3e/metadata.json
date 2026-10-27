@@ -1,0 +1,37 @@
+{
+  "title": "Computer Systems: A Programmer’s Perspective, 3rd Edition",
+  "full_text_status": "未找到作者或出版社授权免费全文",
+  "resources": [
+    {
+      "title": "Computer Systems: A Programmer’s Perspective, 3rd Edition",
+      "source": "https://csapp.cs.cmu.edu/3e/code.html",
+      "url": "https://csapp.cs.cmu.edu/3e/code-all.tar",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\08_CSAPP_3e\\csapp3e-code-all.tar",
+      "type": "官方完整配套源码",
+      "status": "downloaded",
+      "archive_members": 1147,
+      "bytes": 27852800,
+      "sha256": "1be590472f18d26e8d46929c851807d672508e70ca10701b5a7283b679544288"
+    },
+    {
+      "title": "Computer Systems: A Programmer’s Perspective, 3rd Edition",
+      "source": "https://csapp.cs.cmu.edu/3e/code.html",
+      "url": "https://csapp.cs.cmu.edu/3e/pieces/preface3e.pdf",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\08_CSAPP_3e\\csapp3e-preface.pdf",
+      "type": "第三版前言",
+      "status": "downloaded",
+      "bytes": 417686,
+      "sha256": "c297e8a80090a25005516500434ecaa360e653cfb7b58552f570b699a6845759"
+    },
+    {
+      "title": "Computer Systems: A Programmer’s Perspective, 3rd Edition",
+      "source": "https://csapp.cs.cmu.edu/3e/code.html",
+      "url": "https://csapp.cs.cmu.edu/3e/pieces/csapptalk3e.pdf",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\08_CSAPP_3e\\csapp3e-introduction-slides.pdf",
+      "type": "官方介绍幻灯片",
+      "status": "downloaded",
+      "bytes": 8031884,
+      "sha256": "91e58de5896b2c7346a98f430962123244722956081a90f5d4d1e4add9fd1c71"
+    }
+  ]
+}

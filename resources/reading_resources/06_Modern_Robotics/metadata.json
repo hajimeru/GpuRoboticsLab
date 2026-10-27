@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Modern Robotics",
+    "source": "https://hades.mech.northwestern.edu/index.php/Modern_Robotics",
+    "url": "https://hades.mech.northwestern.edu/images/2/25/MR-v2.pdf",
+    "path": "Modern_Robotics_preprint_2019.pdf",
+    "type": "官方免费完整预印本",
+    "status": "downloaded",
+    "bytes": 7322483,
+    "sha256": "47f446567bb4ba500fced69890c4c039f8180c2a3dfd0ffdd679d9ac0a421368"
+  },
+  {
+    "title": "Modern Robotics",
+    "source": "https://hades.mech.northwestern.edu/index.php/Modern_Robotics",
+    "url": "https://hades.mech.northwestern.edu/images/e/ef/MR_practice_exercises.pdf",
+    "path": "practice_exercises.pdf",
+    "type": "练习及解答",
+    "status": "downloaded",
+    "bytes": 2482091,
+    "sha256": "db7ec7df986fd2ba3a0b46da7d651f83ef0bf5805350168209018695f3a815ce"
+  },
+  {
+    "title": "Modern Robotics",
+    "source": "https://hades.mech.northwestern.edu/index.php/Modern_Robotics",
+    "url": "https://codeload.github.com/NxRLab/ModernRobotics/zip/refs/heads/master",
+    "path": "ModernRobotics_code.zip",
+    "type": "配套代码",
+    "status": "downloaded",
+    "bytes": 270064,
+    "sha256": "e24f9de7aa275e181e15f93b7dadbc55647bfab2fade707612c4a75102eb1c0b"
+  }
+]

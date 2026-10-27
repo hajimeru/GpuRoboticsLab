@@ -1,0 +1,75 @@
+{
+  "title": "Numerical Linear Algebra — Trefethen and Bau (1997)",
+  "full_text_status": "未找到作者或出版社授权免费全文",
+  "resources": [
+    {
+      "title": "Numerical Linear Algebra — Trefethen and Bau (1997)",
+      "source": "https://people.maths.ox.ac.uk/trefethen/text.html",
+      "url": "https://people.maths.ox.ac.uk/trefethen/lafront.ps",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\11_Numerical_Linear_Algebra\\lafront.ps",
+      "type": "作者免费 PostScript 样章或前置/注记",
+      "status": "downloaded",
+      "bytes": 330024,
+      "sha256": "b5d9fda99f5f9d40e96b822f366bbf3921c933a643c6ad5b314e1d4c67f211ff"
+    },
+    {
+      "title": "Numerical Linear Algebra — Trefethen and Bau (1997)",
+      "source": "https://people.maths.ox.ac.uk/trefethen/text.html",
+      "url": "https://people.maths.ox.ac.uk/trefethen/lec1.ps",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\11_Numerical_Linear_Algebra\\lec1.ps",
+      "type": "作者免费 PostScript 样章或前置/注记",
+      "status": "downloaded",
+      "bytes": 544622,
+      "sha256": "64a969b2fd74e2399d191261bb1a29f39a595bfc606ca7e7326aff2c23c3d837"
+    },
+    {
+      "title": "Numerical Linear Algebra — Trefethen and Bau (1997)",
+      "source": "https://people.maths.ox.ac.uk/trefethen/text.html",
+      "url": "https://people.maths.ox.ac.uk/trefethen/lec2.ps",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\11_Numerical_Linear_Algebra\\lec2.ps",
+      "type": "作者免费 PostScript 样章或前置/注记",
+      "status": "downloaded",
+      "bytes": 532862,
+      "sha256": "936b9684c08713309cf1b85b217724301fcaa06d24301ddd988914589ea5c3d2"
+    },
+    {
+      "title": "Numerical Linear Algebra — Trefethen and Bau (1997)",
+      "source": "https://people.maths.ox.ac.uk/trefethen/text.html",
+      "url": "https://people.maths.ox.ac.uk/trefethen/lec3.ps",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\11_Numerical_Linear_Algebra\\lec3.ps",
+      "type": "作者免费 PostScript 样章或前置/注记",
+      "status": "downloaded",
+      "bytes": 551358,
+      "sha256": "de37e0173f37af5c1c58aa229caf8a6fc9bc2b9a5be92363c1f94ecc042c9756"
+    },
+    {
+      "title": "Numerical Linear Algebra — Trefethen and Bau (1997)",
+      "source": "https://people.maths.ox.ac.uk/trefethen/text.html",
+      "url": "https://people.maths.ox.ac.uk/trefethen/lec4.ps",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\11_Numerical_Linear_Algebra\\lec4.ps",
+      "type": "作者免费 PostScript 样章或前置/注记",
+      "status": "downloaded",
+      "bytes": 539567,
+      "sha256": "075dc170f793bc68874db6d40ce319937635bc4a54cbb9a29f308471c807bc99"
+    },
+    {
+      "title": "Numerical Linear Algebra — Trefethen and Bau (1997)",
+      "source": "https://people.maths.ox.ac.uk/trefethen/text.html",
+      "url": "https://people.maths.ox.ac.uk/trefethen/lec5.ps",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\11_Numerical_Linear_Algebra\\lec5.ps",
+      "type": "作者免费 PostScript 样章或前置/注记",
+      "status": "downloaded",
+      "bytes": 336622,
+      "sha256": "c1641ccd5aeab84a8d2b9579ed5b35611f3a44cfead08139d8d0d49c2bd84b27"
+    },
+    {
+      "title": "Numerical Linear Algebra — Trefethen and Bau (1997)",
+      "source": "https://people.maths.ox.ac.uk/trefethen/text.html",
+      "url": "https://people.maths.ox.ac.uk/trefethen/notes.ps",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\11_Numerical_Linear_Algebra\\notes.ps",
+      "type": "作者免费 PostScript 样章或前置/注记",
+      "status": "failed",
+      "error": "HTTP Error 404: Not Found"
+    }
+  ]
+}

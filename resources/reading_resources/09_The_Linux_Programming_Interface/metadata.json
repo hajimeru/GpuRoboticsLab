@@ -1,0 +1,87 @@
+{
+  "title": "The Linux Programming Interface",
+  "full_text_status": "未找到作者或出版社授权免费全文",
+  "resources": [
+    {
+      "title": "The Linux Programming Interface",
+      "source": "https://www.man7.org/tlpi/index.html",
+      "url": "https://www.man7.org/tlpi/download/TLPI-00-Preface.pdf",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\09_The_Linux_Programming_Interface\\TLPI-00-Preface.pdf",
+      "type": "作者免费样章或前置/参考内容",
+      "status": "downloaded",
+      "bytes": 88900,
+      "sha256": "22e0c06ff7139eff29b02f5525b523946c0296d2a7449bcd022f46ad158c5ae8"
+    },
+    {
+      "title": "The Linux Programming Interface",
+      "source": "https://www.man7.org/tlpi/index.html",
+      "url": "https://www.man7.org/tlpi/download/TLPI-04-File_IO_The_Universal_IO_Model.pdf",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\09_The_Linux_Programming_Interface\\TLPI-04-File_IO_The_Universal_IO_Model.pdf",
+      "type": "作者免费样章或前置/参考内容",
+      "status": "downloaded",
+      "bytes": 771850,
+      "sha256": "fb3fa7d5496fc823d8a02c299b08766f6852b20df717ec7377cf682186fc22df"
+    },
+    {
+      "title": "The Linux Programming Interface",
+      "source": "https://www.man7.org/tlpi/index.html",
+      "url": "https://www.man7.org/tlpi/download/TLPI-24-Process_Creation.pdf",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\09_The_Linux_Programming_Interface\\TLPI-24-Process_Creation.pdf",
+      "type": "作者免费样章或前置/参考内容",
+      "status": "downloaded",
+      "bytes": 1343193,
+      "sha256": "f7ba166704981783e91e2b29e8939368bb9c725280c45bc08bb53af9905b581a"
+    },
+    {
+      "title": "The Linux Programming Interface",
+      "source": "https://www.man7.org/tlpi/index.html",
+      "url": "https://www.man7.org/tlpi/download/TLPI-52-POSIX_Message_Queues.pdf",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\09_The_Linux_Programming_Interface\\TLPI-52-POSIX_Message_Queues.pdf",
+      "type": "作者免费样章或前置/参考内容",
+      "status": "downloaded",
+      "bytes": 876497,
+      "sha256": "8d014d44d9d9f08365162a630a0e3b900a33a062bfc3454bae257d6ad4a57a25"
+    },
+    {
+      "title": "The Linux Programming Interface",
+      "source": "https://www.man7.org/tlpi/index.html",
+      "url": "https://www.man7.org/tlpi/download/TLPI-TOC-detailed.pdf",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\09_The_Linux_Programming_Interface\\TLPI-TOC-detailed.pdf",
+      "type": "作者免费样章或前置/参考内容",
+      "status": "downloaded",
+      "bytes": 310095,
+      "sha256": "4422bbb044af1544312ed965a83c36dcb806ff61caee01e338ba20356a92c28c"
+    },
+    {
+      "title": "The Linux Programming Interface",
+      "source": "https://www.man7.org/tlpi/index.html",
+      "url": "https://www.man7.org/tlpi/download/TLPI-Bibliography.pdf",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\09_The_Linux_Programming_Interface\\TLPI-Bibliography.pdf",
+      "type": "作者免费样章或前置/参考内容",
+      "status": "downloaded",
+      "bytes": 74198,
+      "sha256": "f096da8c436f48436b91582cd3c4e42e79d03e0fc5d97fe3776706753780ff60"
+    },
+    {
+      "title": "The Linux Programming Interface",
+      "source": "https://www.man7.org/tlpi/index.html",
+      "url": "https://www.man7.org/tlpi/download/TLPI-Index.pdf",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\09_The_Linux_Programming_Interface\\TLPI-Index.pdf",
+      "type": "作者免费样章或前置/参考内容",
+      "status": "downloaded",
+      "bytes": 805619,
+      "sha256": "d21f9a7eff1f714a3e14c1a634820739de575855ce14ab67a0ae86fc1c2c6e06"
+    },
+    {
+      "title": "The Linux Programming Interface",
+      "source": "https://www.man7.org/tlpi/index.html",
+      "url": "https://www.man7.org/tlpi/code/download/tlpi-260523-dist.tar.gz",
+      "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\09_The_Linux_Programming_Interface\\tlpi-260523-dist.tar.gz",
+      "type": "作者官方源码发行版，GPL/LGPL，含书外扩展",
+      "status": "downloaded",
+      "archive_members": 604,
+      "bytes": 336358,
+      "sha256": "7bb1155f6a90f382e18eaf961133d4f3b0583afd278416fba97406bdb0c606e2"
+    }
+  ]
+}

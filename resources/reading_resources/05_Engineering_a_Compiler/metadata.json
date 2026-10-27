@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Engineering a Compiler, 3rd Edition",
+    "source": "https://shop.elsevier.com/books/book-companion/9780120884780",
+    "url": "https://shop.elsevier.com/books/book-companion/9780120884780",
+    "path": null,
+    "type": "full_book",
+    "status": "not_found_authorized_free_full_text"
+  },
+  {
+    "title": "Engineering a Compiler, 3rd Edition",
+    "source": "https://shop.elsevier.com/books/book-companion/9780120884780",
+    "url": "https://shop.elsevier.com/books/book-companion/9780120884780",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\05_Engineering_a_Compiler\\official_companion.html",
+    "type": "official_resource_page",
+    "status": "downloaded",
+    "bytes": 181180
+  },
+  {
+    "title": "Engineering a Compiler, 3rd Edition",
+    "source": "https://shop.elsevier.com/books/book-companion/9780120884780",
+    "url": "https://shop.elsevier.com/books/book-companion/9780120884780",
+    "path": null,
+    "type": "supplement_download",
+    "status": "blocked_frontify_javascript"
+  }
+]

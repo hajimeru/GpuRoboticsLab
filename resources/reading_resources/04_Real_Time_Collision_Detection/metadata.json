@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Real-Time Collision Detection",
+    "source": "https://realtimecollisiondetection.net/pubs/",
+    "url": "https://realtimecollisiondetection.net/pubs/",
+    "path": null,
+    "type": "full_book",
+    "status": "not_found_authorized_free_full_text"
+  },
+  {
+    "title": "Real-Time Collision Detection",
+    "source": "https://realtimecollisiondetection.net/pubs/",
+    "url": "http://realtimecollisiondetection.net/pubs/SIGGRAPH04_Ericson_GJK_notes.pdf",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\04_Real_Time_Collision_Detection\\SIGGRAPH04_GJK_notes.pdf",
+    "type": "author_lecture_notes",
+    "status": "downloaded",
+    "bytes": 2926614,
+    "sha256": "82f03b84a1f2a7788797e5cc6e0d1b4bf31bb5eba496517083f08755aa7708da"
+  },
+  {
+    "title": "Real-Time Collision Detection",
+    "source": "https://realtimecollisiondetection.net/pubs/",
+    "url": "http://realtimecollisiondetection.net/pubs/GDC07_Ericson_Physics_Tutorial_Numerical_Robustness.ppt",
+    "path": null,
+    "type": "author_slides",
+    "status": "failed",
+    "error": "406 Client Error: Not Acceptable for url: https://realtimecollisiondetection.net/pubs/GDC07_Ericson_Physics_Tutorial_Numerical_Robustness.ppt"
+  },
+  {
+    "title": "Real-Time Collision Detection",
+    "source": "https://realtimecollisiondetection.net/pubs/",
+    "url": "http://realtimecollisiondetection.net/pubs/SIGGRAPH04_Ericson_the_GJK_algorithm.ppt",
+    "path": null,
+    "type": "author_slides",
+    "status": "failed",
+    "error": "406 Client Error: Not Acceptable for url: https://realtimecollisiondetection.net/pubs/SIGGRAPH04_Ericson_the_GJK_algorithm.ppt"
+  }
+]

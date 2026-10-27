@@ -1,0 +1,27 @@
+[
+  {
+    "title": "Computer Architecture: A Quantitative Approach, 7th Edition",
+    "source": "https://shop.elsevier.com/books/book-companion/9780443154065",
+    "url": "https://shop.elsevier.com/books/book-companion/9780443154065",
+    "path": null,
+    "type": "full_book",
+    "status": "not_found_authorized_free_full_text"
+  },
+  {
+    "title": "Computer Architecture: A Quantitative Approach, 7th Edition",
+    "source": "https://shop.elsevier.com/books/book-companion/9780443154065",
+    "url": "https://shop.elsevier.com/books/book-companion/9780443154065",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\03_Computer_Architecture_A_Quantitative_Approach\\official_companion.html",
+    "type": "official_resource_page",
+    "status": "downloaded",
+    "bytes": 170560
+  },
+  {
+    "title": "Computer Architecture: A Quantitative Approach, 7th Edition",
+    "source": "https://shop.elsevier.com/books/book-companion/9780443154065",
+    "url": "https://shop.elsevier.com/books/book-companion/9780443154065",
+    "path": null,
+    "type": "supplement_download",
+    "status": "blocked_frontify_javascript"
+  }
+]

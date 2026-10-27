@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Algorithms for Optimization",
+    "source": "https://algorithmsbook.com/optimization/",
+    "url": "https://algorithmsbook.com/optimization/files/optimization-1e.pdf",
+    "path": "Algorithms_for_Optimization_1e.pdf",
+    "type": "官方免费全文（2019第一版，匹配书单）",
+    "status": "downloaded",
+    "download_url": "https://drive.google.com/uc?export=download&id=1qYjI1igDuBg3x884JKZaCWuJkgdPylHN",
+    "bytes": 8317804,
+    "sha256": "ee1e67c1792aeb72e37b13fd2b5df6ea028b013a9c57474fc063a3f6438e6ef6"
+  },
+  {
+    "title": "Algorithms for Optimization",
+    "source": "https://algorithmsbook.com/optimization/",
+    "url": "https://codeload.github.com/algorithmsbooks/algforopt-notebooks/zip/refs/heads/master",
+    "path": "algforopt_notebooks.zip",
+    "type": "配套代码",
+    "status": "downloaded",
+    "bytes": 114340,
+    "sha256": "df7da5e96e8a05401ab56a0c26a2306ba0df2ee6d67c165a8c56478be4f13895"
+  }
+]

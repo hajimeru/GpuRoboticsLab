@@ -1,0 +1,20 @@
+[
+  {
+    "title": "The Art of Writing Efficient Programs, 2nd Edition",
+    "source": "https://github.com/PacktPublishing/The-Art-of-Writing-Efficient-Programs-2E",
+    "url": "https://github.com/PacktPublishing/The-Art-of-Writing-Efficient-Programs-2E",
+    "path": null,
+    "type": "full_book",
+    "status": "not_found_authorized_free_full_text"
+  },
+  {
+    "title": "The Art of Writing Efficient Programs, 2nd Edition",
+    "source": "https://github.com/PacktPublishing/The-Art-of-Writing-Efficient-Programs-2E",
+    "url": "https://codeload.github.com/PacktPublishing/The-Art-of-Writing-Efficient-Programs-2E/zip/refs/heads/main",
+    "path": "E:\\GpuRoboticsLab\\resources\\reading_resources\\02_The_Art_of_Writing_Efficient_Programs\\official_code_2E.zip",
+    "type": "open_source_code",
+    "status": "downloaded",
+    "bytes": 344485,
+    "sha256": "a869a32a938305eb94f093c036dd176e293fd1b46fce9f3d502d6abf07713a21"
+  }
+]

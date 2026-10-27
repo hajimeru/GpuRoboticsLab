@@ -1,0 +1,27 @@
+# 原始教材、下载归档与本地资料
+*.pdf
+*.epub
+*.ps
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+resources/local/
+data/
+# 构建和环境
+build/
+cmake-build-*/
+.vs/
+.venv/
+__pycache__/
+*.pyc
+*.exe
+*.obj
+*.o
+*.pdb
+.env
+.env.*
+!.env.example
+.DS_Store
+Thumbs.db

@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Introduction to Applied Linear Algebra",
+    "source": "https://stanford.edu/~boyd/vmls/",
+    "url": "https://stanford.edu/~boyd/vmls/vmls.pdf",
+    "path": "VMLS_full_book.pdf",
+    "type": "官方免费全文",
+    "status": "downloaded",
+    "bytes": 7061628,
+    "sha256": "254738c8763f6c6fc29c0a837884bc58deca7c3e762e5ec79068208ac7214362"
+  },
+  {
+    "title": "Introduction to Applied Linear Algebra",
+    "source": "https://stanford.edu/~boyd/vmls/",
+    "url": "https://stanford.edu/~boyd/vmls/vmls-slides.pdf",
+    "path": "lecture_slides.pdf",
+    "type": "讲义",
+    "status": "downloaded",
+    "bytes": 10523809,
+    "sha256": "c616b86d9670369ce946258c7732c2d5324f6e9cd679b2b24da0c155c7319d7a"
+  },
+  {
+    "title": "Introduction to Applied Linear Algebra",
+    "source": "https://stanford.edu/~boyd/vmls/",
+    "url": "https://stanford.edu/~boyd/vmls/vmls-julia-companion.pdf",
+    "path": "julia_companion.pdf",
+    "type": "Julia配套教材",
+    "status": "downloaded",
+    "bytes": 1290633,
+    "sha256": "d75818e77da074ceda65051db504379732f872de5568e301fc158c4d3feed47a"
+  },
+  {
+    "title": "Introduction to Applied Linear Algebra",
+    "source": "https://stanford.edu/~boyd/vmls/",
+    "url": "https://stanford.edu/~boyd/vmls/vmls-additional-exercises.pdf",
+    "path": "additional_exercises.pdf",
+    "type": "补充练习",
+    "status": "downloaded",
+    "bytes": 530593,
+    "sha256": "e4009632440facce769aefa3ae20dbde2297fd2d0bdb732c82347c2f460890cf"
+  }
+]
